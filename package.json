@@ -1,0 +1,23 @@
+{
+  "name": "usedatatable",
+  "version": "1.0.0",
+  "description": "A React hook implementing the state for a data table",
+  "main": "index.ts",
+  "author": "Ross Knudsen <rossknudsen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.5.3"
+  },
+  "peerDependencies": {
+    "react": "16.8.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.2"
+  },
+  "prettier": {
+    "trailingComma": "all",
+    "tabWidth": 2,
+    "arrowParens": "always",
+    "printWidth": 120
+  }
+}
